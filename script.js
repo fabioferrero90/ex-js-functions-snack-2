@@ -25,7 +25,7 @@ console.log(somma3(1, 2));
 
 //     Definisci una funzione chiamata quadrato che accetta un numero e restituisce il suo quadrato in una sola riga.
 
-const quadrato = (num) => num * num;
+const quadrato = (num) => num * num; // (si può usare anche n ** 2)
 
 console.log(quadrato(2));
 
